@@ -1,0 +1,187 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  margin: 0 auto;
+  position: absolute;
+  top: 20%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-top: 40px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  height: auto;
+  font-family: Montserrat;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  color: #11999E;
+}
+
+.top {
+  background-color: #E4F9F5;
+  height: 700px;
+  position: relative;
+}
+
+.middle {
+  background-color: white;
+  padding: 100px;
+}
+
+.bottom {
+  background-color: white;
+  padding: 60px
+}
+
+hr {
+  height: 0;
+  border-style: dotted none none none;
+  background-color: white;
+  width: 10%;
+  border-width: 5px;
+  border-color: #D3D3D3;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 15%;
+  left: 70%;
+}
+
+.middle-cloud {
+  position: absolute;
+  top: 50%;
+  left: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.my {
+  border-radius: 120px;
+  height: 150px;
+  width: 150px;
+}
+
+.profile {
+  padding: 10px;
+}
+
+.name {
+  font-family: Montserrat;
+}
+
+.skills {
+  padding-top: 30px
+}
+
+.website {
+  height: 150px;
+  width: 150px;
+  float: left;
+  padding-left: 35%;
+}
+
+.website-heading {
+  position: relative;
+  right: 200px;
+  top: 80px;
+  color: #11999E;
+  margin-top: 100px;
+}
+
+.website-info {
+  position: relative;
+  top: 120px;
+  right: 25%;
+}
+
+.gear {
+  height: 150px;
+  width: 150px;
+  float: left;
+  padding-left: 35%
+}
+
+.engineering {
+  position: relative;
+  top: 150px;
+  right: 45%;
+}
+
+.engineering-heading {
+  position: relative;
+  bottom: 70px;
+  left: 675px;
+  white-space: nowrap;
+  color: #11999E;
+}
+
+.engineering-info {
+  position: relative;
+  left: 42%;
+  bottom: 10px;
+}
+
+.programmer {
+  position: absolute;
+  top: 35%;
+  left: 0;
+  right: 0;
+  font-size: 2.5rem;
+  margin-top: 90px
+}
+
+.myskills {
+  font-size: 2.5rem;
+  height:auto;
+}
+
+.contactme {
+  height: 200px;
+  width: auto;
+  padding-top:10px;;
+  background-color: #E4F9F5;
+  position: relative;
+  top: 200px;
+  text-align:left;
+padding-left: 50px;
+
+}
+
+.skillcontent {
+  margin-top: 50px;
+}
+.copyright{position: absolute;
+bottom: 0;font-family:serif;}
