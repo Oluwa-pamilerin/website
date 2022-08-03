@@ -46,11 +46,13 @@ h3 {
 .middle {
   background-color: white;
   padding: 100px;
+  text-align: center;
 }
 
 .bottom {
   background-color: white;
-  padding: 60px
+  padding: 60px;
+  text-align: center;
 }
 
 hr {
