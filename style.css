@@ -45,13 +45,15 @@ h3 {
 
 .middle {
   background-color: white;
-  padding: 100px;
+ left: 0;
+right: 0;
   text-align: center;
 }
 
 .bottom {
   background-color: white;
-  padding: 60px;
+ left: 0;
+right: 0;
   text-align: center;
 }
 
